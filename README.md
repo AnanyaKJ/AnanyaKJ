@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya K.J</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Aspiring Engineer | NIE 2nd Year BE Student | Committed to Excellence in Computer Science and Engineering</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.e49266b020eb9e125f4bc87503414444?pid=1.7&rurl=https%3a%2f%2fimages.lemonly.com%2fwp-content%2fuploads%2f2018%2f08%2f07150313%2fHomebase_Thumb_v01.gif&ehk=b4H29LR3MhRw5wkcupcsFbCjD4wkHWMsnTlYEir0Oy4%3d">
 
